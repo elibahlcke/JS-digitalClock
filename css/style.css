@@ -37,6 +37,6 @@ html, body {
 
 @media(max-width: 715px){
     .reloj {
-        font-size: 3rem;
+        font-size: 2rem;
     }
 }
